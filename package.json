@@ -1,6 +1,6 @@
 {
   "name": "reverse-cowproxy",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Giacomo sucks",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,9 @@
   "author": "Walter Ngo",
   "license": "MIT",
   "dependencies": {
+    "async": "^2.3.0",
     "body-parser": "^1.16.1",
+    "chrome-remote-interface": "^0.17.1",
     "express": "^4.14.1"
   },
   "devDependencies": {},
