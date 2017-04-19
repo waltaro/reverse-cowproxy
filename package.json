@@ -1,0 +1,30 @@
+{
+  "name": "reverse-cowproxy",
+  "version": "0.0.0",
+  "description": "Giacomo sucks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "reverse",
+    "proxy"
+  ],
+  "author": "Walter Ngo",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.3.0",
+    "body-parser": "^1.16.1",
+    "chrome-remote-interface": "^0.17.1",
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waltaro/reverse-cowproxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/waltaro/reverse-cowproxy/issues"
+  },
+  "homepage": "https://github.com/waltaro/reverse-cowproxy#readme"
+}
