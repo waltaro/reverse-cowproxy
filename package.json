@@ -1,7 +1,7 @@
 {
   "name": "reverse-cowproxy",
   "version": "0.0.1",
-  "description": "Reverse Cowproxy is a Node.js application that renders pages server side and serves it back to the user via a response.",
+  "description": "Reverse Cowproxy is a Node.js application that renders Javascript and returns the generated HTML.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
