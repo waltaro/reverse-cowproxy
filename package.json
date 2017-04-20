@@ -1,0 +1,25 @@
+{
+  "name": "reverse-cowproxy",
+  "version": "0.0.1",
+  "description": "Reverse Cowproxy is a Node.js application that renders Javascript and returns the generated HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waltaro/reverse-cowproxy.git"
+  },
+  "keywords": [
+    "reverse",
+    "proxy",
+    "server",
+    "render"
+  ],
+  "author": "Walter Ngo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waltaro/reverse-cowproxy/issues"
+  },
+  "homepage": "https://github.com/waltaro/reverse-cowproxy#readme"
+}
