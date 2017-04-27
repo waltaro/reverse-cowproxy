@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/waltaro/reverse-cowproxy/issues"
   },
-  "homepage": "https://github.com/waltaro/reverse-cowproxy#readme"
+  "homepage": "https://github.com/waltaro/reverse-cowproxy#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
